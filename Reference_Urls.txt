@@ -2,3 +2,7 @@ Git Docs Reference
 ==================
 http://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html
 https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+SpringWithHibernate example
+===========================
+https://www.dineshonjava.com/spring-mvc-with-hibernate-crud-example/
